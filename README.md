@@ -1,0 +1,1 @@
+# protest_visual_tests_playwright
